@@ -100,15 +100,15 @@
 	margin-top:0px;
 }
 #p2{
-	width:48.9%;
+	width:47.9%;
 	padding:12.5%;
 	background-color:white;
-	margin-left:59px;
+	margin-left:25px;
 	margin-top:60px;
 }
 #p3{
-	width:48.1%;
-	padding:12.5%;
+	width:47.1%;
+	padding:11.5%;
 	background-color:white;
 	margin-left:9px;
 	margin-top:60px;
@@ -116,7 +116,7 @@
 .p4,.p5,.p6,.p7,.p8,.p9,.p0,.pa{
 	margin:1% 2% 1% 1%;
 	background-color:white;
-	width:18%;
+	width:15%;
 	padding:11%;	
 }
 .h{
@@ -142,10 +142,10 @@
 	margin:8px;
 }
 .g1,.g2,.g3,.g4,.g5{
-	margin:48px;
+	margin:40px;
 	background-color:white;
-	width:14%;
-	padding:9%;
+	width:13%;
+	padding:6.5%;
 }
 #i1{
 	margin:0% 100px 10% 30%;
